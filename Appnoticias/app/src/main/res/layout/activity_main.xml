@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:fillViewport="true">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="409dp"
+        android:layout_height="202dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/celular" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="20dp"
+        android:text="Aprenda sobre edição de imagens"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="15/12/2019"
+        android:textSize="12dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="387dp"
+        android:layout_height="1168dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="90dp"
+        android:text="Tincidunt ante egestas venenatis sed viverra et varius sapien gravida himenaeos tempus, aliquam enim suscipit sodales dictumst at sagittis sit aenean arcu imperdiet proin, sodales nibh congue dolor curae praesent ligula condimentum donec tortor. fermentum iaculis risus molestie class gravida suscipit venenatis hendrerit maecenas purus, molestie condimentum risus fames molestie luctus varius potenti bibendum, blandit egestas lorem turpis porttitor id augue ipsum euismod. cursus auctor at placerat sociosqu eu maecenas tincidunt ante amet, iaculis fringilla litora fames eleifend cras pulvinar fusce rhoncus, aliquam fames phasellus class nostra senectus lectus volutpat.   	Potenti blandit velit elit vivamus cubilia facilisis est habitant dictumst integer et leo lorem massa per sagittis fusce aliquam non, tellus sagittis potenti et donec aliquam Tincidunt ante egestas venenatis sed viverra et varius sapien gravida himenaeos tempus, aliquam enim suscipit sodales dictumst at sagittis sit aenean arcu imperdiet proin, sodales nibh congue dolor curae praesent ligula condimentum donec tortor. fermentum iaculis risus molestie class gravida suscipit venenatis hendrerit maecenas purus, molestie condimentum risus fames molestie luctus varius potenti bibendum, blandit egestas lorem turpis porttitor id augue ipsum euismod. cursus auctor at placerat sociosqu eu maecenas tincidunt ante amet, iaculis fringilla litora fames eleifend cras pulvinar fusce rhoncus, aliquam fames phasellus class nostra senectus lectus volutpat.   	Potenti blandit velit elit vivamus cubilia facilisis est habitant dictumst integer et leo lorem massa per sagittis fusce aliquam non, tellus sagittis potenti et donec aliquam Tincidunt ante egestas venenatis sed viverra et varius sapien gravida himenaeos tempus, aliquam enim suscipit sodales dictumst at sagittis sit aenean arcu imperdiet proin, sodales nibh congue dolor curae praesent ligula condimentum donec tortor. fermentum iaculis risus molestie class gravida suscipit venenatis hendrerit maecenas purus, molestie condimentum risus fames molestie luctus varius potenti bibendum, blandit egestas lorem turpis porttitor id augue ipsum euismod. cursus auctor at placerat sociosqu eu maecenas tincidunt ante amet, iaculis fringilla litora fames eleifend cras pulvinar fusce rhoncus, aliquam fames phasellus class nostra senectus lectus volutpat.   	Potenti blandit velit elit vivamus cubilia facilisis est habitant dictumst integer et leo lorem massa per sagittis fusce aliquam non, tellus sagittis potenti et donec aliquam Tincidunt ante egestas venenatis sed viverra et varius sapien gravida himenaeos tempus, aliquam enim suscipit sodales dictumst at sagittis sit aenean arcu imperdiet proin, sodales nibh congue dolor curae praesent ligula condimentum donec tortor. fermentum iaculis risus molestie class gravida suscipit venenatis hendrerit maecenas purus, molestie condimentum risus fames molestie luctus varius potenti bibendum, blandit egestas lorem turpis porttitor id augue ipsum euismod. cursus auctor at placerat sociosqu eu maecenas tincidunt ante amet, iaculis fringilla litora fames eleifend cras pulvinar fusce rhoncus, aliquam fames phasellus class nostra senectus lectus volutpat.   	Potenti blandit velit elit vivamus cubilia facilisis est habitant dictumst integer et leo lorem massa per sagittis fusce aliquam non, tellus sagittis potenti et donec aliquam Tincidunt ante egestas venenatis sed viverra et varius sapien gravida himenaeos tempus, aliquam enim suscipit sodales dictumst at sagittis sit aenean arcu imperdiet proin, sodales nibh congue dolor curae praesent ligula condimentum donec tortor. fermentum iaculis risus molestie class gravida suscipit venenatis hendrerit maecenas purus, molestie condimentum risus fames molestie luctus varius potenti bibendum, blandit egestas lorem turpis porttitor id augue ipsum euismod. cursus auctor at placerat sociosqu eu maecenas tincidunt ante amet, iaculis fringilla litora fames eleifend cras pulvinar fusce rhoncus, aliquam fames phasellus class nostra senectus lectus volutpat.   	Potenti blandit velit elit vivamus cubilia facilisis est habitant d "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="PRÓXIMO"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="PRÓXIMO"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button5" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="115dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="24dp"
+        android:text="Leonardo Zotto"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
